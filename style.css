@@ -1,0 +1,10 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  canvas {
+    background-color: #f8fafc;
+    border-radius: 8px;
+  }
+  
+
